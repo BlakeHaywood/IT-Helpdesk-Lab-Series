@@ -172,3 +172,5 @@ We can remotely launch **Command Prompt** or **Device Manager**.
 
 23. <p align="center">
     <img src="https://i.imgur.com/OSQvJac.png" height="8
+
+👉 [Next Lab 14 : Delegate Control and Account Lockout Management](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-14-Delegate-Control-and-Account-Lockout-Management.md)

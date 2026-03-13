@@ -27,13 +27,13 @@ In order, each lab focuses on specific objectives, tools, and workflows to simul
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-5-Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports.md)
 6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-6-Common-Active-Directory-Issues-CMD-Commands-PC-Offline.md)
 7. [Security Groups, Mapped Drives, Personal Drives](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-7-Security-Groups-Mapped-Drives-Personal-Drives.md)
-8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](#)
-9. [RSOP, Group Policy, Task Manager, Disable Logoff](#)
-10. [Installing and Deploying Software with PDQ](#)
-11. [PDQ Inventory: Hardware and Software Reporting](#)
-12. [Printer Setup on Server 2022, NTFS Permissions](#)
-13. [Understanding Tickets Using Spiceworks](#)
-14. [Delegate Control and Account Lockout Management](#)
+8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-8-Windows-10-Remote-Access-RemotDesktop-Remote-Registry.md)
+9. [RSOP, Group Policy, Task Manager, Disable Logoff](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-9-RSOP-Group-Policy-Task-Manager-Disable-Logoff.md)
+10. [Installing and Deploying Software with PDQ](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-10-Installing-and-Deploying-Software-with-PDQ.md)
+11. [PDQ Inventory: Hardware and Software Reporting](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-11-PDQ-Inventory-Hardware-and-Software-Reporting.md)
+12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-12-Printer-Setup-on-Server-2022-NTFS-Permissions.md)
+13. [Understanding Tickets Using Spiceworks](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-13-Understanding-Tickets-Using-Spiceworks.md)
+14. [Delegate Control and Account Lockout Management](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-14-Delegate-Control-and-Account-Lockout-Management.md)
 
 ## Skills Demonstrated
 

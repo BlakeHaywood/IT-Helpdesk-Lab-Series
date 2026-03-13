@@ -26,7 +26,7 @@ In order, each lab focuses on specific objectives, tools, and workflows to simul
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-4-Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager.md)
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-5-Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports.md)
 6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-6-Common-Active-Directory-Issues-CMD-Commands-PC-Offline.md)
-7. [Security Groups, Mapped Drives, Personal Drives](#)
+7. [Security Groups, Mapped Drives, Personal Drives](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-7-Security-Groups-Mapped-Drives-Personal-Drives.md)
 8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](#)
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](#)
 10. [Installing and Deploying Software with PDQ](#)

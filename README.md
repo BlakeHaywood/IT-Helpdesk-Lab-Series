@@ -25,7 +25,7 @@ In order, each lab focuses on specific objectives, tools, and workflows to simul
 3. [Active Directory Account Creation, CMD Commands](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-3-Active-Directory-Account-Creation-CMD-Commands.md)
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-4-Windows-10-Join-PC-to-Domain-Helpdesk-RSAT-Tool-Server-Manager.md)
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-5-Join-Windows-10-to-Domain-Local-User-Group-Policy-RSOP-Reports.md)
-6. [Common Active Directory Issues, CMD Commands, PC Offline](#)
+6. [Common Active Directory Issues, CMD Commands, PC Offline](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-6-Common-Active-Directory-Issues-CMD-Commands-PC-Offline.md)
 7. [Security Groups, Mapped Drives, Personal Drives](#)
 8. [Windows 10 Remote Access: Remote Desktop, Remote Registry](#)
 9. [RSOP, Group Policy, Task Manager, Disable Logoff](#)

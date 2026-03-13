@@ -234,4 +234,6 @@ Now, go back to the **Helpdesk** account in **Active Directory Users and Compute
 
 Congratulations! We have successfully addressed several common Active Directory issues, utilized CMD commands effectively, and resolved PC offline scenarios. 
 
- 👉 [Next Lab 7 : Security Groups, Mapped Drives, Personal Drives](#)
+ 👉 [Next Lab 7 : Security Groups, Mapped Drives, Personal Drives](
+https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-7-Security-Groups-Mapped-Drives-Personal-Drives.md
+)

@@ -237,4 +237,4 @@ Once we log into Desktop2 as Bob, we will see that both the Personal and HR driv
 
 Congratulations! We have successfully configured Security Groups, Mapped Drives, and Personal Drives.
 
- 👉 [Next Lab 8 : Windows 10 Remote Access: Remote Desktop, Remote Registry](Lab-8-Remote-Access.md)
+ 👉 [Next Lab 8 : Windows 10 Remote Access: Remote Desktop, Remote Registry](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-8-Windows-10-Remote-Access-RemotDesktop-Remote-Registry.md)

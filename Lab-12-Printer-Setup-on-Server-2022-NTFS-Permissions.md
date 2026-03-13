@@ -183,4 +183,4 @@ Now that the printer is in the directory, let's log into **Desktop2** as Bob and
 
 Congratulations! We have successfully added a printer on our Server 2022 domain and explored file and printer security through NTFS permissions for effective access control.
 
- 👉 [Next Lab 13 : Understanding Tickets Using Spiceworks](Lab-13-Spiceworks-Ticketing.md)
+ 👉 [Next Lab 13 : Understanding Tickets Using Spiceworks](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-13-Understanding-Tickets-Using-Spiceworks.md)

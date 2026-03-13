@@ -216,4 +216,4 @@ Congratulations! We have successfully completed Home Lab 11 on **PDQ Deploy** an
 
 This project focused on using **PDQ Inventory** within a **VirtualBox** environment to track and manage hardware and software across virtual machines. We explored creating and analyzing reports, gaining insights into user resources, and generating reports for managers or supervisors.
 
- 👉 [Next Lab 12 : Printer Setup on Server 2022, NTFS Permissions](Lab-12-Printer-Setup.md)
+ 👉 [Next Lab 12 : Printer Setup on Server 2022, NTFS Permissions](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-12-Printer-Setup-on-Server-2022-NTFS-Permissions.md)

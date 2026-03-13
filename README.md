@@ -22,7 +22,7 @@ In order, each lab focuses on specific objectives, tools, and workflows to simul
 
 1. [Installing VirtualBox and Server 2022](Lab-1-Installing-VirtualBox.md)
 2. [Renaming Server 2022 and Installing Active Directory](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-2-Renaming-Server-2022.md)
-3. [Active Directory Account Creation, CMD Commands](#)
+3. [Active Directory Account Creation, CMD Commands](Active-Directory-Account-Creation-CMD-Commands)
 4. [Windows 10, Join PC to Domain (Helpdesk), RSAT Tool, Server Manager](#)
 5. [Join Windows 10 to Domain (Local User), Group Policy, RSOP Reports](#)
 6. [Common Active Directory Issues, CMD Commands, PC Offline](#)

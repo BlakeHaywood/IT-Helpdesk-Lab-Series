@@ -135,4 +135,5 @@ If you select the **Details** tab at the top of the report, it will display all 
 
 Congratulations! We have successfully leveraged RSOP commands, explored Group Policy settings, utilized Task Manager, disabled logoff functionality, removed the ability to change passwords, and restricted access to Task Manager.
 
- 👉 [Next Lab 10 : Installing and Deploying Software with PDQ](Lab-10-PDQ-Deployment.md)
+ 👉 [Next Lab 10 : Installing and Deploying Software with PDQ](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-10-Installing-and-Deploying-Software-with-PDQ.md
+)

@@ -171,6 +171,24 @@ We can remotely launch **Command Prompt** or **Device Manager**.
     <br />
 
 23. <p align="center">
-    <img src="https://i.imgur.com/OSQvJac.png" height="8
+    <img src="https://i.imgur.com/OSQvJac.png" height="80%" width="80%" alt="Disk Sanitization Steps 23"/>
+    </p>
+    <br />
 
-👉 [Next Lab 14 : Delegate Control and Account Lockout Management](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-14-Delegate-Control-and-Account-Lockout-Management.md)
+To perform administrative tasks, select **Elevate to Admin Mode** and provide domain admin credentials.
+
+24. <p align="center">
+    <img src="https://i.imgur.com/BNhrIxr.png" height="80%" width="80%" alt="Disk Sanitization Steps 24"/>
+    </p>
+    <br />
+
+In Admin Mode, we can send **Alt+Ctrl+Del**.
+
+25. <p align="center">
+    <img src="https://i.imgur.com/0CnkkjF.png" height="80%" width="80%" alt="Disk Sanitization Steps 25"/>
+    </p>
+    <br />
+
+Congratulations! We've successfully completed the lab on Spiceworks Ticketing and Remote Support.
+
+ 👉 [Next Lab 14 : Delegate Control and Account Lockout Management](Lab-14-Delegate-Control-and-Account-Lockout-Management.md)

@@ -165,4 +165,5 @@ Enter the previously configured static IP settings:
 
 Click **OK** to apply the settings.
 
- 👉 [Next Lab 11 : PDQ Inventory: Hardware and Software Reporting](Lab-11-PDQ-Inventory.md)
+ 👉 [Next Lab 11 : PDQ Inventory: Hardware and Software Reporting](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-11-PDQ-Inventory-Hardware-and-Software-Reporting.md
+)

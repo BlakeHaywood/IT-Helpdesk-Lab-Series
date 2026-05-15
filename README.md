@@ -36,7 +36,7 @@ In order, each lab focuses on specific objectives, tools, and workflows to simul
 12. [Printer Setup on Server 2022, NTFS Permissions](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-12-Printer-Setup-on-Server-2022-NTFS-Permissions.md)
 13. [Understanding Tickets Using Spiceworks](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-13-Understanding-Tickets-Using-Spiceworks.md)
 14. [Delegate Control and Account Lockout Management](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Lab-14-Delegate-Control-and-Account-Lockout-Management.md)
-
+15.  [Active Directory Brute Force SIEM](https://github.com/BlakeHaywood/IT-Helpdesk-Lab-Series/blob/main/Active-Directory-Brute-Force-SIEM.md) 
 ## Skills Demonstrated
 
 This project series highlights the following key skills:

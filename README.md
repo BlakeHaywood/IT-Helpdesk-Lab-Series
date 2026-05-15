@@ -2,12 +2,14 @@
 
 ## Overview
 
-Welcome to my Home Lab Series! In this series, I demonstrate how to use Active Directory from both a helpdesk and sysadmin perspective within a virtualized lab environment. These labs document a series of hands-on experiments focused on building, configuring, and troubleshooting Active Directory setups in a simulated IT setting.
+Welcome to my Home Lab Series! In this project, I demonstrate how to configure Active Directory, implement security monitoring, and execute Tier II diagnostic troubleshooting within a virtualized enterprise environment. These labs document a series of hands-on experiments focused on building, defending, and managing an IT infrastructure. 
 
-Using VirtualBox as the virtualization platform, I’ve created a networked configuration of three virtual machines:
+Using VirtualBox as the virtualization platform, I’ve created a networked configuration of virtual machines:
+
 * **Windows Server 2022:** Serves as the domain controller and the system administrator's primary workstation.
 * **Windows 10 (Helpdesk):** Represents a helpdesk environment equipped with tools like RSAT for Active Directory management.
-* **Windows 10 (Local User):** Simulates a local user for testing tasks such as password resets and troubleshooting.
+* **Windows 10 (Local User):** Simulates a local user for testing tasks such as password resets, GPO enforcement, and troubleshooting.
+* **Wazuh SIEM Deployment:** Integrated across the virtual network to capture logs, detect vulnerabilities, and simulate proactive enterprise threat monitoring.
 
 ## Purpose
 

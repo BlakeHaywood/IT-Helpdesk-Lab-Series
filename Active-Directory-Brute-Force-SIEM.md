@@ -9,11 +9,13 @@ Standard Windows installations do not provide the granular visibility required f
 * **Policy Initialization:** Accessed the Local Security Policy console via `secpol.msc` to initialize advanced audit configurations for the domain environment.
 
 ![Accessing Local Security Policy](secpol.png)
+
 *(Accessing the Windows Local Security Policy console to initialize advanced audit configuration.)*
 
 * **Telemetry Activation:** Navigated to `Security Settings > Local Policies > Audit Policy` and enabled **Success** and **Failure** auditing for both **Logon events** and **Account logon events**. This ensures the generation of Event ID 4625 (Logon Failure) telemetry for all unauthorized attempts.
 
 ![Audit Policy Configuration](audit-policy.png)
+
 *(Enabling 'Success' and 'Failure' auditing for logon events to ensure the generation of Event ID 4625 telemetry.)*
 
 * **Provisioning Targeted Identity:** Utilized PowerShell (Admin) to provision a sacrificial local user, `Finance_Manager`, establishing a high-value target for adversary credential guessing simulations.
@@ -23,6 +25,7 @@ New-LocalUser -Name "Finance_Manager" -Description "Test account for SOC lab" -N
 
 ```
 ![PowerShell User Creation](powershell.png)
+
 *(Utilizing PowerShell to provision the Finance_Manager sacrificial account.)*
 
 ### Phase 2: Adversary Simulation (Simulating Brute Force)
@@ -37,6 +40,7 @@ for i in {1..10}; do smbclient -L //192.168.10.10 -U Finance_Manager%WrongPass; 
 ```
 
 ![Kali Linux Attack](kali.attack.png)
+
 *(Executing a controlled SMB brute-force attack from Kali Linux to generate rapid authentication failures.)*
 
 ### Phase 3: Forensic Analysis & SIEM Validation
@@ -45,12 +49,14 @@ The final phase validates that the generated "noise" was successfully ingested, 
 * **Log Verification:** Accessed the Windows Event Viewer and applied a filter for Event ID 4625 to confirm the local generation of audit failures following the attack.
 
 ![Event Viewer Logs](event-viewer-2.png)
+
 *(Reviewing the Windows Security Log to verify the local generation of Audit Failure events.)*
 
 * **SIEM Correlation:** Navigated to the Wazuh Dashboard to verify that the individual failure logs were correlated into a high-priority security event. 
 * **Detection Integrity:** Successfully identified **Rule 60204 (Multiple Windows Logon Failures)**, confirming that the SIEM correctly flagged the attack pattern and mapped it to global security frameworks like PCI DSS.
 
 ![Wazuh Dashboard](wazuh-alert.png)
+
 *(Wazuh SIEM Dashboard displaying the successful correlation of raw logs into a High-Severity (Level 10) Brute-Force alert.)*
 
 ### Lessons Learned & Mitigation Strategies
